@@ -1,7 +1,12 @@
 What’s in my fridge?
+
 July 18, 2022
+
 App Overview
 		Everyone who cooks looks inside their fridge to find out what they can cook with the available ingredients in their fridge. “What’s in my Fridge?”  App will do just that. When a user enters the ingredients that they have on hand, the app will find out recipes that they can click and access. It will focus on recipes which  mainly use the user’s ingredients. It will have a home page, about page, page to search for recipes and an error page.As stretch goals, I hope to add random food jokes/gifs to it too. 
+		[Use the App here!](https://tight-blood.surge.sh)
+
+
 
 ![istockphoto-917892538-1024x1024](https://user-images.githubusercontent.com/105741410/180666731-e3f5b065-f971-406b-808b-d4ef1903d608.jpeg)
 
